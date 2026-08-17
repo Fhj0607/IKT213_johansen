@@ -1,1 +1,1 @@
-# IKT213_johansen
+## Main repository for all assignments in IKT213G26V
